@@ -11,11 +11,14 @@ Return the minimum number of operations required to make all elements in nums eq
 //Solution 1 
 class Solution {
 public:
+    void flipbit(vector<int>&arr ,int l ,int r){
+        for(;l<=r;l++) arr[l]=!(arr[l]);
+    }
     int minOperations(vector<int>& nums) {
         int n=nums.size();
         int op=0;
         int l=0,r=2;
-        while(r<n-2){
+        while(r<n){
             if(nums[l]==0) flipbit(nums,l,r),op++;
             l++,r++;
         }
