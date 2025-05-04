@@ -1,5 +1,11 @@
 # 🚀 #DrGViswanathan Coding Challenge
 
+##Video Solution:
+Please visit my youtube channel : www.youtube.com/@CodewithShivakant
+###For Unlisted video links are given here :
+Day 5 : stay tuned as due to bad weather the network connection is not stable so its pending to upload .
+
+
 ## ✨ Overview
 
 The **#DrGViswanathan Coding Challenge** is a personal journey of discipline, learning, and gratitude — started as a tribute to **Dr. G. Viswanathan**, the esteemed founder of VIT.
