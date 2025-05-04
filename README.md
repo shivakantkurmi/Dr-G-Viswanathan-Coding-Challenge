@@ -53,6 +53,8 @@ This is more than just a coding streak — it is a celebration of mentorship, fa
 | 📘 EduMentor AI | Personalized academic assistant using GenAI and semantic search |
 | 🏅 Olympic Shooting Simulator | Unity game replicating Olympic shooting physics and scoring logic |
 
+**for projects you can check my other repositories**
+
 ---
 
 ## 📌 Journey Summary
