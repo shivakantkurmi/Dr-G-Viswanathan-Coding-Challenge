@@ -4,7 +4,6 @@ Difficulty: MediumAccuracy: 31.85%Submissions: 107K+Points: 4
 Given a string str, your task is to find the length of the smallest window that contains all the characters of the given string at least once.
 
 Example:
-
 Input: str = "aabcbcdbca"
 Output: 4
 Explanation: Sub-String "dbca" has the smallest length that contains all the characters of str.
