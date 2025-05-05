@@ -31,7 +31,7 @@ This is more than just a coding streak — it is a celebration of mentorship, fa
 Please visit my youtube channel : www.youtube.com/@CodewithShivakant
 ### For Unlisted video links are given here :
 - Day 5 : https://youtu.be/yDIg3tHWNZ4
-- Day 6 : Uploading
+- Day 6 : https://youtu.be/8TgCH0sTCe0
 
 ---
 
