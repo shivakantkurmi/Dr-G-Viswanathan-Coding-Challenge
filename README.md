@@ -29,33 +29,17 @@ This is more than just a coding streak — it is a celebration of mentorship, fa
 ## 🧠 Covered Topics & Skills
 
 - **Problem Solving**: DSA via LeetCode, GFG
-- **AR/VR Development**: Unity, Vuforia, Meta Quest
-- **Generative AI**: Google AI Studio, LangChain, OpenAI APIs
-- **AI/ML**: Kaggle Notebooks, model training, fine-tuning, retrieval-augmented generation (RAG)
+
 
 ---
 
 ## 🔧 Tech Stack
 
 - **Languages**: Python, C#, JavaScript, C++
-- **Frameworks**: Unity Engine, FastAPI, Streamlit
-- **Libraries**: LangChain, HuggingFace Transformers, OpenCV
 - **Environments**: VS Code, Unity Editor, Jupyter, GitHub, Google Colab
 
 ---
 
-## 🛠️ Highlight Projects
-
-| Project | Description |
-|--------|-------------|
-| 🌌 AR Solar System | Marker-based AR app using Vuforia to simulate planetary motion and time |
-| 🔫 Pew Pew Waves (VR) | Wave-based VR shooter for Meta Quest, featuring multiple maps and AI enemies |
-| 📘 EduMentor AI | Personalized academic assistant using GenAI and semantic search |
-| 🏅 Olympic Shooting Simulator | Unity game replicating Olympic shooting physics and scoring logic |
-
-**for projects you can check my other repositories**
-
----
 
 ## 📌 Journey Summary
 
