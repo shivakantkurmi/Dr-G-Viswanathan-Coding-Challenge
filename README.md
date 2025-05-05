@@ -1,11 +1,5 @@
 # 🚀 #DrGViswanathan Coding Challenge
 
-## Video Solution:
-Please visit my youtube channel : www.youtube.com/@CodewithShivakant
-### For Unlisted video links are given here :
-Day 5 : https://youtu.be/yDIg3tHWNZ4
-
-
 ## ✨ Overview
 
 The **#DrGViswanathan Coding Challenge** is a personal journey of discipline, learning, and gratitude — started as a tribute to **Dr. G. Viswanathan**, the esteemed founder of VIT.
@@ -30,6 +24,14 @@ This is more than just a coding streak — it is a celebration of mentorship, fa
 
 - **Problem Solving**: DSA via LeetCode, GFG
 
+
+---
+
+## Video Solution:
+Please visit my youtube channel : www.youtube.com/@CodewithShivakant
+### For Unlisted video links are given here :
+Day 5 : https://youtu.be/yDIg3tHWNZ4
+Day 6 : Uploading
 
 ---
 
