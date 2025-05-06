@@ -32,7 +32,7 @@ Please visit my youtube channel : www.youtube.com/@CodewithShivakant
 ### For Unlisted video links are given here :
 - Day 5 : https://youtu.be/yDIg3tHWNZ4
 - Day 6 : https://youtu.be/8TgCH0sTCe0
-- Day 7 : Uploading
+- Day 7 : https://youtu.be/_ux1_Gnl4gU
 
 ---
 
