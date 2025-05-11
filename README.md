@@ -35,7 +35,7 @@ Please visit my youtube channel : www.youtube.com/@CodewithShivakant
 - Day 7 : https://youtu.be/_ux1_Gnl4gU
 - Day 8 : https://youtu.be/CwMI_NQQ_6k
 - Day 9 : https://youtu.be/6CmI4sT8NQw
-- Day 10 :
+- Day 10 : https://youtu.be/YmkxQs7F--g
 - Day 11 :
 
 ---
