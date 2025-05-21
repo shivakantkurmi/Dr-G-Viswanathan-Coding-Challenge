@@ -29,17 +29,12 @@ This is more than just a coding streak — it is a celebration of mentorship, fa
 
 ## Video Solution:
 Please visit my youtube channel : www.youtube.com/@CodewithShivakant
-### For Unlisted video links are given here :
+### For Unlisted video links are given here (Only Unlisted) :
 - Day 5 : https://youtu.be/yDIg3tHWNZ4
-- Day 6 : https://youtu.be/8TgCH0sTCe0
-- Day 7 : https://youtu.be/_ux1_Gnl4gU
-- Day 8 : https://youtu.be/CwMI_NQQ_6k
-- Day 9 : https://youtu.be/6CmI4sT8NQw
-- Day 10 : https://youtu.be/YmkxQs7F--g
-- Day 11 : https://youtu.be/oYIsMMz82YE
 - Day 15 : https://youtu.be/kCN_E9SRCoE
 - Day 16 : https://youtu.be/stMsDCoTKLE
 - Day 19 : https://youtu.be/EdMgOel2uuI
+
 
 ---
 
