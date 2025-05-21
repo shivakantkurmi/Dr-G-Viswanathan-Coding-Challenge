@@ -29,7 +29,7 @@ This is more than just a coding streak — it is a celebration of mentorship, fa
 
 ## Video Solution:
 Please visit my youtube channel : www.youtube.com/@CodewithShivakant
-### For Unlisted video links are given here (Only Unlisted) :
+### For Unlisted videoes links are given below (Only Unlisted) :
 - Day 5 : https://youtu.be/yDIg3tHWNZ4
 - Day 15 : https://youtu.be/kCN_E9SRCoE
 - Day 16 : https://youtu.be/stMsDCoTKLE
