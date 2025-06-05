@@ -1,11 +1,9 @@
 /*
-2108. Find First Palindromic String in the Array
+103. Binary Tree Zigzag Level Order Traversal
 Solved
-Easy
+Medium
 
-Given an array of strings words, return the first palindromic string in the array. If there is no such string, return an empty string "".
-
-A string is palindromic if it reads the same forward and backward.
+Given the root of a binary tree, return the zigzag level order traversal of its nodes' values. (i.e., from left to right, then right to left for the next level and alternate between).
 */
 
 //Link : https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
