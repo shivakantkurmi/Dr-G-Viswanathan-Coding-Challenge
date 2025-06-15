@@ -4,7 +4,7 @@
 
 The **#DrGViswanathan Coding Challenge** is a personal journey of discipline, learning, and gratitude — started as a tribute to **Dr. G. Viswanathan**, the esteemed founder of VIT.
 
-Originally, this challenge was set for **51 days** of continuous coding, project work, and knowledge sharing. After completing that phase successfully, I chose to **extend it by another 50 days**, bringing deeper meaning to the journey by aligning it with **Mother’s Day and Father’s Day** — dedicating the continuation of this challenge to the two most important pillars of my life: **my parents**.
+Originally, this challenge was set for **51 days** of continuous coding, project work, and knowledge sharing. After completing that phase successfully, I chose to **extend till fathers day**, bringing deeper meaning to the journey by aligning it with **Mother’s Day and Father’s Day** — dedicating the continuation of this challenge to the two most important pillars of my life: **my parents**.
 
 This is more than just a coding streak — it is a celebration of mentorship, family, and persistence.
 
